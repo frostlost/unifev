@@ -12,6 +12,7 @@ namespace Somar
         {
             int n1 = 2;
             int n2 = 3;
+            int n3 = 4;
             int somar = n1 + n2;
             Console.WriteLine(somar);
             Console.ReadKey();
